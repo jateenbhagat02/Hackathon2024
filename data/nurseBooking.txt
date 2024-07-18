@@ -1,0 +1,122 @@
+[
+  {
+    "nurseName": "Ashley Jones",
+    "location": "Lake Elizabeth",
+    "serviceCharge": 175,
+    "photo": "/images/nurses/nurse1.jpg",
+    "fromDate": "2023-05-22",
+    "toDate": "2023-06-11",
+    "gender": "Female",
+    "available": true
+  },
+  {
+    "nurseName": "Michael Brown",
+    "location": "Lake Kevin",
+    "serviceCharge": 69,
+    "photo": "/images/nurses/nurse2.jpg",
+    "fromDate": "2024-04-23",
+    "toDate": "2024-05-06",
+    "gender": "Male",
+    "available": true
+  },
+  {
+    "nurseName": "Jessica Williams",
+    "location": "West Jennifer",
+    "serviceCharge": 190,
+    "photo": "/images/nurses/nurse3.jpg",
+    "fromDate": "2023-10-15",
+    "toDate": "2023-11-10",
+    "gender": "Female",
+    "available": true
+  },
+  {
+    "nurseName": "David Miller",
+    "location": "East Patriciaburgh",
+    "serviceCharge": 185,
+    "photo": "/images/nurses/nurse4.jpg",
+    "fromDate": "2023-02-06",
+    "toDate": "2023-03-19",
+    "gender": "Male",
+    "available": false
+  },
+  {
+    "nurseName": "Jennifer Davis",
+    "location": "East Crystal",
+    "serviceCharge": 146,
+    "photo": "/images/nurses/nurse5.jpg",
+    "fromDate": "2023-02-07",
+    "toDate": "2023-02-21",
+    "gender": "Female",
+    "available": true
+  },
+  {
+    "nurseName": "Christopher Wilson",
+    "location": "Port Laura",
+    "serviceCharge": 51,
+    "photo": "/images/nurses/nurse6.jpg",
+    "fromDate": "2024-05-20",
+    "toDate": "2024-06-04",
+    "gender": "Male",
+    "available": true
+  },
+  {
+    "nurseName": "Amanda Johnson",
+    "location": "Port Sarah",
+    "serviceCharge": 93,
+    "photo": "/images/nurses/nurse7.jpg",
+    "fromDate": "2023-05-06",
+    "toDate": "2023-05-19",
+    "gender": "Female",
+    "available": true
+  },
+  {
+    "nurseName": "Daniel Taylor",
+    "location": "New Rebecca",
+    "serviceCharge": 69,
+    "photo": "/images/nurses/nurse8.jpg",
+    "fromDate": "2023-08-26",
+    "toDate": "2023-09-01",
+    "gender": "Male",
+    "available": true
+  },
+  {
+    "nurseName": "Linda Anderson",
+    "location": "New Jeffrey",
+    "serviceCharge": 187,
+    "photo": "/images/nurses/nurse9.jpg",
+    "fromDate": "2023-12-28",
+    "toDate": "2024-01-16",
+    "gender": "Female",
+    "available": false
+  },
+  {
+    "nurseName": "Matthew Thomas",
+    "location": "Lake Andrew",
+    "serviceCharge": 179,
+    "photo": "/images/nurses/nurse10.jpg",
+    "fromDate": "2023-12-14",
+    "toDate": "2024-01-07",
+    "gender": "Male",
+    "available": true
+  },
+  {
+    "nurseName": "Lisa Jackson",
+    "location": "New Michelle",
+    "serviceCharge": 85,
+    "photo": "/images/nurses/nurse11.jpg",
+    "fromDate": "2023-06-22",
+    "toDate": "2023-07-05",
+    "gender": "Female",
+    "available": false
+  },
+  {
+    "nurseName": "Richard White",
+    "location": "North Lisa",
+    "serviceCharge": 164,
+    "photo": "/images/nurses/nurse12.jpg",
+    "fromDate": "2023-12-11",
+    "toDate": "2023-12-24",
+    "gender": "Male",
+    "available": true
+  }
+]
