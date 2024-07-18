@@ -1,0 +1,229 @@
+[
+  {
+"nurseId":"NID001",
+    "nurseName": "Ashley Jones",
+    "appointmentDate": "2023-05-22",
+    "bookingDate": "2023-06-11",
+    "serviceCharge": 175,
+    "status": "Available",
+    "education": "Graduate",
+    "workExperience": {
+      "hospital": "Unknown",
+      "fromDate": "2023-05-22",
+      "toDate": "2023-06-11"
+    },
+    "location": "Lake Elizabeth",
+    "review": [],
+    "preference": {
+      "gender": "Female"
+    }
+  },
+  {
+"nurseId":"NID002",
+    "nurseName": "Michael Brown",
+    "appointmentDate": "2024-04-23",
+    "bookingDate": "2024-05-06",
+    "serviceCharge": 69,
+    "status": "Available",
+    "education": "Graduate",
+    "workExperience": {
+      "hospital": "Unknown",
+      "fromDate": "2024-04-23",
+      "toDate": "2024-05-06"
+    },
+    "location": "Lake Kevin",
+    "review": [],
+    "preference": {
+      "gender": "Male"
+    }
+  },
+  {
+"nurseId":"NID003",
+    "nurseName": "Jessica Williams",
+    "appointmentDate": "2023-10-15",
+    "bookingDate": "2023-11-10",
+    "serviceCharge": 190,
+    "status": "Available",
+    "education": "Graduate",
+    "workExperience": {
+      "hospital": "Unknown",
+      "fromDate": "2023-10-15",
+      "toDate": "2023-11-10"
+    },
+    "location": "West Jennifer",
+    "review": [],
+    "preference": {
+      "gender": "Female"
+    }
+  },
+  {
+"nurseId":"NID004",
+    "nurseName": "David Miller",
+    "appointmentDate": "2023-02-06",
+    "bookingDate": "2023-03-19",
+    "serviceCharge": 185,
+    "status": "Unavailable",
+    "education": "Graduate",
+    "workExperience": {
+      "hospital": "Unknown",
+      "fromDate": "2023-02-06",
+      "toDate": "2023-03-19"
+    },
+    "location": "East Patriciaburgh",
+    "review": [],
+    "preference": {
+      "gender": "Male"
+    }
+  },
+  {
+"nurseId":"NID005",
+    "nurseName": "Jennifer Davis",
+    "appointmentDate": "2023-02-07",
+    "bookingDate": "2023-02-21",
+    "serviceCharge": 146,
+    "status": "Available",
+    "education": "Graduate",
+    "workExperience": {
+      "hospital": "Unknown",
+      "fromDate": "2023-02-07",
+      "toDate": "2023-02-21"
+    },
+    "location": "East Crystal",
+    "review": [],
+    "preference": {
+      "gender": "Female"
+    }
+  },
+  {
+"nurseId":"NID006",
+    "nurseName": "Christopher Wilson",
+    "appointmentDate": "2024-05-20",
+    "bookingDate": "2024-06-04",
+    "serviceCharge": 51,
+    "status": "Available",
+    "education": "Graduate",
+    "workExperience": {
+      "hospital": "Unknown",
+      "fromDate": "2024-05-20",
+      "toDate": "2024-06-04"
+    },
+    "location": "Port Laura",
+    "review": [],
+    "preference": {
+      "gender": "Male"
+    }
+  },
+  {
+"nurseId":"NID007",
+    "nurseName": "Amanda Johnson",
+    "appointmentDate": "2023-05-06",
+    "bookingDate": "2023-05-19",
+    "serviceCharge": 93,
+    "status": "Available",
+    "education": "Graduate",
+    "workExperience": {
+      "hospital": "Unknown",
+      "fromDate": "2023-05-06",
+      "toDate": "2023-05-19"
+    },
+    "location": "Port Sarah",
+    "review": [],
+    "preference": {
+      "gender": "Female"
+    }
+  },
+  {
+"nurseId":"NID008",
+    "nurseName": "Daniel Taylor",
+    "appointmentDate": "2023-08-26",
+    "bookingDate": "2023-09-01",
+    "serviceCharge": 69,
+    "status": "Available",
+    "education": "Graduate",
+    "workExperience": {
+      "hospital": "Unknown",
+      "fromDate": "2023-08-26",
+      "toDate": "2023-09-01"
+    },
+    "location": "New Rebecca",
+    "review": [],
+    "preference": {
+      "gender": "Male"
+    }
+  },
+  {
+"nurseId":"NID009",
+    "nurseName": "Linda Anderson",
+    "appointmentDate": "2023-12-28",
+    "bookingDate": "2024-01-16",
+    "serviceCharge": 187,
+    "status": "Unavailable",
+    "education": "Graduate",
+    "workExperience": {
+      "hospital": "Unknown",
+      "fromDate": "2023-12-28",
+      "toDate": "2024-01-16"
+    },
+    "location": "New Jeffrey",
+    "review": [],
+    "preference": {
+      "gender": "Female"
+    }
+  },
+  {
+"nurseId":"NID010",
+    "nurseName": "Matthew Thomas",
+    "appointmentDate": "2023-12-14",
+    "bookingDate": "2024-01-07",
+    "serviceCharge": 179,
+    "status": "Available",
+    "education": "Graduate",
+    "workExperience": {
+      "hospital": "Unknown",
+      "fromDate": "2023-12-14",
+      "toDate": "2024-01-07"
+    },
+    "location": "Lake Andrew",
+    "review": [],
+    "preference": {
+      "gender": "Male"
+    }
+  },
+  {
+"nurseId":"NID011",
+    "nurseName": "Lisa Jackson",
+    "appointmentDate": "2023-06-22",
+    "bookingDate": "2023-07-05",
+    "serviceCharge": 85,
+    "status": "Unavailable",
+    "education": "Graduate",
+    "workExperience": {
+      "hospital": "Unknown",
+      "fromDate": "2023-06-22",
+      "toDate": "2023-07-05"
+    },
+    "location": "New Michelle",
+    "review": [],
+    "preference": {
+      "gender": "Female"
+    }
+  },
+  {
+"nurseId":"NID012",
+    "nurseName": "Richard White",
+    "appointmentDate": "2023-12-11",
+    "bookingDate": "2023-12-24",
+    "serviceCharge": 164,
+    "status": "Available",
+    "education": "Graduate",
+    "workExperience": {
+      "hospital": "Unknown",
+      "fromDate": "2023-12-11",
+      "toDate": "2023-12-24"
+    },
+    "location": "North Lisa",
+    "review": [],
+    "preference": {
+      "gender": "Male"
+    }
+  }
